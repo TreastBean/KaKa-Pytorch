@@ -1,6 +1,6 @@
-# KaKa-s-Pytorch
-### A Pytorch review
+# KaKa-DeepLearning
+### A DL review
 
-最近因为期末复习的原因，对于pytorch和tensorflow的使用略显生疏，于是准备在这个暑假系统地重新学习一遍深度学习和pytorch
+卡卡的深度学习复习
 
 以下为学习流程和目录（待更新：）
